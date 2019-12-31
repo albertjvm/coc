@@ -1,0 +1,16 @@
+export const TROOPS = {
+  BARBARIAN: 0,
+  ARCHER: 1,
+  GOBLIN: 2,
+  GIANT: 3,
+  WALL_BREAKER: 4,
+  BALLOON: 5,
+  WIZARD: 6,
+  HEALER: 7,
+  DRAGON: 8,
+  PEKKA: 9,
+  BABY_DRAGON: 10
+  // MINER: 11,
+  // ELECTRO_DRAGON: 12,
+  // YETI: 13
+};

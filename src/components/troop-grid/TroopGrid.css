@@ -1,0 +1,14 @@
+.TroopGrid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+}
+
+.TroopGrid .header {
+  outline: none;
+  border: none;
+  background-color: lightgrey;
+}
+
+.TroopGrid .header.active {
+  background-color: grey;
+}
